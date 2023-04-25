@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15761" started-at="2023-04-25T17:45:34Z" finished-at="2023-04-25T17:45:50Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15761" started-at="2023-04-25T17:45:34Z" finished-at="2023-04-25T17:45:50Z">
+      <class name="TestcaseSwagLabs.LoginTestSwagLabs">
+        <test-method status="PASS" signature="Reportsetup()[pri:0, instance:TestcaseSwagLabs.LoginTestSwagLabs@5a4aa2f2]" name="Reportsetup" is-config="true" duration-ms="765" started-at="2023-04-25T17:45:34Z" finished-at="2023-04-25T17:45:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reportsetup -->
+        <test-method status="PASS" signature="setup(java.lang.reflect.Method)[pri:0, instance:TestcaseSwagLabs.LoginTestSwagLabs@5a4aa2f2]" name="setup" is-config="true" duration-ms="3652" started-at="2023-04-25T17:45:35Z" finished-at="2023-04-25T17:45:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestcaseSwagLabs.LoginTestSwagLabs.test1() throws com.codoid.products.exception.FilloException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:TestcaseSwagLabs.LoginTestSwagLabs@5a4aa2f2]" name="test1" duration-ms="3848" started-at="2023-04-25T17:45:38Z" finished-at="2023-04-25T17:45:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:TestcaseSwagLabs.LoginTestSwagLabs@5a4aa2f2]" name="teardown" is-config="true" duration-ms="668" started-at="2023-04-25T17:45:42Z" finished-at="2023-04-25T17:45:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup(java.lang.reflect.Method)[pri:0, instance:TestcaseSwagLabs.LoginTestSwagLabs@5a4aa2f2]" name="setup" is-config="true" duration-ms="2407" started-at="2023-04-25T17:45:43Z" finished-at="2023-04-25T17:45:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestcaseSwagLabs.LoginTestSwagLabs.test2() throws com.codoid.products.exception.FilloException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:TestcaseSwagLabs.LoginTestSwagLabs@5a4aa2f2]" name="test2" duration-ms="3707" started-at="2023-04-25T17:45:45Z" finished-at="2023-04-25T17:45:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:TestcaseSwagLabs.LoginTestSwagLabs@5a4aa2f2]" name="teardown" is-config="true" duration-ms="675" started-at="2023-04-25T17:45:49Z" finished-at="2023-04-25T17:45:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestcaseSwagLabs.LoginTestSwagLabs -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
